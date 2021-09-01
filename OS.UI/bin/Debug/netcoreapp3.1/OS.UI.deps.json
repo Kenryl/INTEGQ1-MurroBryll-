@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OS.UI/1.0.0": {
+        "dependencies": {
+          "OS.BL": "1.0.0"
+        },
+        "runtime": {
+          "OS.UI.dll": {}
+        }
+      },
+      "OS.BL/1.0.0": {
+        "runtime": {
+          "OS.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OS.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OS.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

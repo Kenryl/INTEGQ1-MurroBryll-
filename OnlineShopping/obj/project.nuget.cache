@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUOCrkJJNHP2MXIzRDVkLIF/yqApM1aRdjzzrAK0Y9u5Pjvhi6ixpElt9YNXII380GiC1JpEqSwKT5Du4mQL7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MURRO\\source\\repos\\Online Shopping\\Online Shopping\\Online Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MURRO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

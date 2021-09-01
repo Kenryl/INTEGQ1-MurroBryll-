@@ -1,0 +1,13 @@
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.exe
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.deps.json
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.runtimeconfig.json
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.runtimeconfig.dev.json
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.dll
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\bin\Debug\netcoreapp3.1\OS.BL.pdb
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.csprojAssemblyReference.cache
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.AssemblyInfoInputs.cache
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.AssemblyInfo.cs
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.csproj.CoreCompileInputs.cache
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.dll
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.pdb
+C:\Users\MURRO\source\repos\Online Shopping\OS.BL\obj\Debug\netcoreapp3.1\OS.BL.genruntimeconfig.cache

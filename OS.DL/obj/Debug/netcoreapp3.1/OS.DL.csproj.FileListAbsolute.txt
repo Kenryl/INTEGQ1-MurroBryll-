@@ -1,0 +1,4 @@
+C:\Users\MURRO\source\repos\Online Shopping\OS.DL\obj\Debug\netcoreapp3.1\OS.DL.csprojAssemblyReference.cache
+C:\Users\MURRO\source\repos\Online Shopping\OS.DL\obj\Debug\netcoreapp3.1\OS.DL.AssemblyInfoInputs.cache
+C:\Users\MURRO\source\repos\Online Shopping\OS.DL\obj\Debug\netcoreapp3.1\OS.DL.AssemblyInfo.cs
+C:\Users\MURRO\source\repos\Online Shopping\OS.DL\obj\Debug\netcoreapp3.1\OS.DL.csproj.CoreCompileInputs.cache
